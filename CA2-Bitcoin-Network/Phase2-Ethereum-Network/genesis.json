@@ -1,0 +1,18 @@
+{
+    "config": {
+      "chainId": 15,
+      "homesteadBlock": 0,
+      "daoForkSupport": true,
+      "eip150Block": 0,
+      "eip155Block": 0,
+      "eip158Block": 0,
+      "terminalTotalDifficultyPassed": true
+    },
+    "difficulty": "400000",
+    "gasLimit": "2100000",
+    "alloc": {
+        "0xbcB839BbA6909623957bc7eC97976822Af53Ccab": { "balance": "1000000000810100274" },
+        "0xf06e22924382cb901186790B645B36f16d4DE456": { "balance": "2000000000810100274" },
+        "0xFbC61fB665A71e0Bf667F9e748fBC75a1100eb3c": { "balance": "1500000000810100274" }
+    }
+}
